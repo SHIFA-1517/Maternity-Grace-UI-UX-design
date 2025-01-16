@@ -46,7 +46,7 @@ This prototype is built using **Figma**, emphasizing user-friendly navigation an
 ---
 
 ## 🔗 How to Access the Design  
-1. Visit the **[https://www.figma.com/proto/UIaKCw6lbLQQn8Bl2tl3V5/MATERNITY-GRACE---Baby-Shop-(Community)?node-id=6-583&t=LQjLNDbpwNFF4SwW-1](#)** (replace with your Figma shareable link).  
+1. Visit the **[https://www.figma.com/proto/UIaKCw6lbLQQn8Bl2tl3V5/MATERNITY-GRACE---Baby-Shop-(Community)?node-id=6-583&t=LQjLNDbpwNFF4SwW-1](#)** 
 2. Explore the clickable prototype to navigate through the app's features.  
 
 ---
